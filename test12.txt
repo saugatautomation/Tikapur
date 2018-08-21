@@ -1,0 +1,38 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 7AD9-B3EE
+
+ Directory of C:\Users\Saugat
+
+08/20/2018  10:21 AM    <DIR>          .
+08/20/2018  10:21 AM    <DIR>          ..
+08/19/2018  11:48 AM    <DIR>          .eclipse
+10/18/2017  06:29 PM    <DIR>          .jmc
+12/19/2017  06:44 PM    <DIR>          .m2
+08/19/2018  12:16 PM    <DIR>          .p2
+10/18/2017  06:54 PM    <DIR>          .tooling
+07/21/2018  07:07 AM    <DIR>          Contacts
+08/20/2018  07:44 AM    <DIR>          Desktop
+07/21/2018  07:07 AM    <DIR>          Documents
+08/12/2018  12:52 PM    <DIR>          Downloads
+11/06/2017  09:31 PM    <DIR>          eclipse
+01/10/2018  05:20 PM    <DIR>          eclipse-workspace
+07/21/2018  07:07 AM    <DIR>          Favorites
+08/09/2018  08:31 AM                 0 git
+07/21/2018  07:07 AM    <DIR>          Links
+07/21/2018  07:07 AM    <DIR>          Music
+08/20/2018  07:05 AM    <DIR>          OneDrive
+05/14/2018  02:10 PM    <DIR>          Oracle
+08/12/2018  11:41 AM    <DIR>          Pictures
+08/18/2018  07:27 AM             1,663 rama.txt
+08/20/2018  07:35 AM    <DIR>          samriddhi
+05/17/2018  01:41 PM             1,556 Saughat_DB.sql
+05/16/2018  12:28 PM                 0 Saughat_DB1.sql
+08/01/2018  06:28 PM               255 Saughat_DB2.sql
+07/21/2018  07:07 AM    <DIR>          Saved Games
+07/21/2018  07:07 AM    <DIR>          Searches
+08/07/2018  06:18 PM             3,302 sql code.sql
+08/12/2018  01:14 PM    <DIR>          test
+08/20/2018  10:21 AM                 0 test12.txt
+07/21/2018  07:07 AM    <DIR>          Videos
+               7 File(s)          6,776 bytes
+              24 Dir(s)  18,851,467,264 bytes free
